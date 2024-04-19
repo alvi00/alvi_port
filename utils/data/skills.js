@@ -9,7 +9,6 @@ export const skillsData = [
   'Bootstrap',
   'Tailwind',
   'Figma',
-  'Ubuntu',
   'Lightroom',
   'Blender',
   'Illustrator'
