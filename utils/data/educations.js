@@ -1,7 +1,7 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "B.sc in CSE",
     duration: "2022 - Present",
     institution: "North South University",
   },
@@ -14,7 +14,7 @@ export const educations = [
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2018",
-    institution: "Faridpur Zilla School , Faridpur",
+    duration: "2012-2019",
+    institution: "Faridpur Zilla School, Faridpur",
   }
 ]
