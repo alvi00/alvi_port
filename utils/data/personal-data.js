@@ -2,7 +2,7 @@ export const personalData = {
   name: "Ahmad Fahmid",
   profile: '/profile.jpg',
   designation: "Developer",
-  description: "I am a result-oriented and driven senior Computer Science and Engineering student at North South University. Currently in my 3rd semester. Being a cse student & by taking part in lots of extra curriculum activity, I have repeatedly been exposed to new challenges and gained the opportunity to meet diverse groups of people. This has made me able to adapt to changes and gain a broader perspective quickly. I am always curious about things and enjoy learning. I like to solve problems and fix errors. ",
+  description: "I am a result-oriented and driven senior Computer Science and Engineering student at North South University. Currently in my 4th semester. Being a cse student & by taking part in lots of extra curriculum activity, I have repeatedly been exposed to new challenges and gained the opportunity to meet diverse groups of people. This has made me able to adapt to changes and gain a broader perspective quickly. I am always curious about things and enjoy learning. I like to solve problems and fix errors. ",
   email: 'ahmadfahmid59@gmail.com',
   phone: '+8801401083338',
   address: 'Dhaka, Bangladesh ',
