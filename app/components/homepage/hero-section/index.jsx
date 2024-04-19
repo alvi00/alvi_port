@@ -128,6 +128,18 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Bootstap</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Tailwind</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Figma</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Ubuntu</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Lightroom</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Blender</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Illustrator</span>
+                <span className="text-gray-400">{"', '"}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
