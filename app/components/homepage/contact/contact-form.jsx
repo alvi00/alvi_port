@@ -1,4 +1,3 @@
-
 "use client";
 // @flow strict
 import { isValidEmail } from '@/utils/check-email';
@@ -35,9 +34,14 @@ function ContactForm() {
       setError({ ...error, required: false });
     };
 
-    const serviceID = process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID;
-    const templateID = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID;
-    const options = { publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY };
+    // Hardcoded values
+  // Hardcoded values
+const serviceID = 'service_akbqg2x';
+const templateID = 'template_umy7uto';
+const publicKey = 'F-fAIx8fqZtZhhN6B';
+
+    
+    const options = { publicKey };
 
     try {
       const res = await emailjs.send(serviceID, templateID, input, options);
