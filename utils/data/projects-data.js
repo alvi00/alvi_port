@@ -33,7 +33,18 @@ export const projectsData = [
         role: 'Developer',
         demo: '',
         image: realEstate,
+    },
+    {
+        id: 4,
+        name: 'Gorom Lagse Weather Website',
+        description: 'Website Link - https://gorom-porse.vercel.app Apk link- below. Introducing Gorom Porse - your new weather buddy! 🚀 Made this Using simple HTML, CSS, and JavaScript.With Gorom Porse, you get: 🌡️ Temperature updates, 📌 Todays Highlights 🌬️ Air Quality Index,🌅 Sunset and Sunrise times, 💧 Humidity levels,🌫️ Visibility...and more! Just click to see the weather in your area or explore forecasts for other countries. Easy peasy! 🌍 Website Link - https://gorom-porse.vercel.app Apk Link - https://drive.google.com/.../1KA5HsTIZGWhFLq2D1VKDmyuIbJi... GitHub Link - https://github.com/alvi00/gorom-porse feel free to contribute. Lets stay connected through the weather! ☔☀️',
+        tools: ['Css','Html','Javascript'],
+        code: '',
+        role: 'Developer',
+        demo: '',
+        image: realEstate,
     }
+
 ];
 
 
